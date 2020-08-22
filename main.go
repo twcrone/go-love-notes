@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"github.com/heroku/go-getting-started/database"
 	"github.com/heroku/go-getting-started/service"
 	"log"
