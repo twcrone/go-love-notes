@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/heroku/go-getting-started/database"
-	"github.com/heroku/go-getting-started/service"
+	"github.com/heroku/go-love-notes/database"
+	"github.com/heroku/go-love-notes/service"
 	"log"
 	"net/http"
 	"os"

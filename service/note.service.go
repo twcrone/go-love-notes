@@ -1,6 +1,6 @@
 package service
 
-import "github.com/heroku/go-getting-started/database"
+import "github.com/heroku/go-love-notes/database"
 
 type Note struct {
 	Id      int    `json:"id"`

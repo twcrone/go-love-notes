@@ -1,1 +1,1 @@
-go build -o bin/go-getting-started -v .
+go build -o bin/go-love-notes -v .

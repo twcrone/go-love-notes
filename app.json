@@ -1,12 +1,10 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "Love Notes written in Go",
+  "description": "Love Notes application written in Go",
   "keywords": [
-    "getting-started",
-    "go",
-    "sample",
-    "example"
+    "love-notes",
+    "go"
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "website": "http://github.com/twcrone/go-love-notes",
+  "repository": "http://github.com/twcrone/go-love-notes"
 }
