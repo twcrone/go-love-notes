@@ -38,12 +38,8 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		notesJson, err := json.Marshal(notes)
-		if err != nil {
-			log.Fatal(err)
-		}
-		c.JSON(http.StatusOK, notesJson)
+		c.JSON(http.StatusOK, gin.H{"data": notes})
 	})
 
-	router.Run(":" + port)
+	_ = router.Run(":" + port)
 }
