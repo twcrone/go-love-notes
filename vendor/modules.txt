@@ -5,6 +5,8 @@ github.com/gin-gonic/gin/render
 # github.com/heroku/x v0.0.0-20171004170240-705849e307dd
 github.com/heroku/x/hmetrics
 github.com/heroku/x/hmetrics/onload
+# github.com/itsjamie/gin-cors v0.0.0-20160420130702-97b4a9da7933
+github.com/itsjamie/gin-cors
 # github.com/lib/pq v1.8.0
 github.com/lib/pq
 github.com/lib/pq/oid
